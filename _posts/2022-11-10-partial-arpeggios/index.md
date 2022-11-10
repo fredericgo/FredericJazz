@@ -10,11 +10,11 @@ categories: Arpeggio
 ## 135
 
 ### Starting from 6th string
-![Image Caption](chords/C%20closed/135-6a.svg)
+![Image Caption](assets/images/2022-11-10-partial-arpeggios/chords/C%20closed/135-6a.svg)
 
-![Image Caption](chords/C%20closed/135-6b.svg)
+![Image Caption](assets/images/2022-11-10-partial-arpeggios/chords/C%20closed/135-6b.svg)
 
-![Image Caption](/2022/11/10/partial-arpeggios-chords-C-closed-135-6c.svg)
+![Image Caption](assets/images/2022-11-10-partial-arpeggios/chords/C%20closed/135-6c.svg)
 
 
 ### Starting from 5th string

@@ -113,11 +113,72 @@
 ![fretboard-diagram (44)](https://user-images.githubusercontent.com/6171029/201690824-24d4275e-b297-4b7b-b642-ec2ace8f50d5.svg)
 
 
+----
+## Open Voicing
+### 153
+
+#### 6th string
+![fretboard-diagram (46)](https://user-images.githubusercontent.com/6171029/201691881-8b1c5527-38ff-45d5-839d-d3eac8e1b90b.svg)
+
+![fretboard-diagram (47)](https://user-images.githubusercontent.com/6171029/201692318-1ea75f41-ed0a-4c2f-8080-7b9b408d6f5c.svg)
+
+![fretboard-diagram (48)](https://user-images.githubusercontent.com/6171029/201692490-eaaf78c0-0cf0-431e-9290-bc7b33bc3ea3.svg)
+
+![fretboard-diagram (49)](https://user-images.githubusercontent.com/6171029/201692595-b2385072-2dc9-4703-af01-85d82cdd38d3.svg)
+
+#### 5th string
+
+![fretboard-diagram (50)](https://user-images.githubusercontent.com/6171029/201693799-7608a3aa-7ab2-46ed-9fe2-4e6ef664085a.svg)
+![fretboard-diagram (51)](https://user-images.githubusercontent.com/6171029/201694185-d76738c1-ffc5-4f0e-a306-b70142b93a51.svg)
+
+![fretboard-diagram (52)](https://user-images.githubusercontent.com/6171029/201694351-564e0222-a6f0-4e32-82ca-2793d96eafd6.svg)
+![fretboard-diagram (53)](https://user-images.githubusercontent.com/6171029/201694442-26bfc719-7e82-4921-a166-fcfd9b882624.svg)
 
 
+#### 4th string
+![fretboard-diagram (54)](https://user-images.githubusercontent.com/6171029/201695016-e8ff891d-93d2-4075-bc9e-69e54763fa86.svg)
+![fretboard-diagram (55)](https://user-images.githubusercontent.com/6171029/201695132-9baa0d83-7730-45e5-8932-4a1c4349d768.svg)
+![fretboard-diagram (56)](https://user-images.githubusercontent.com/6171029/201695272-d468bd3d-2078-4cfe-8a7e-d79019b8f362.svg)
+![fretboard-diagram (57)](https://user-images.githubusercontent.com/6171029/201695509-d5a962c5-3dd9-4b02-b560-176d03e397d0.svg)
+
+#### 3rd string
+
+![fretboard-diagram (58)](https://user-images.githubusercontent.com/6171029/201695857-15d2a888-2b6f-43e4-9d0e-6765bbe81f8c.svg)
+
+![fretboard-diagram (60)](https://user-images.githubusercontent.com/6171029/201696059-2f339861-d23f-4d32-bd20-5042d8528adc.svg)
+
+### 315
+
+#### 6th string
+![fretboard-diagram (61)](https://user-images.githubusercontent.com/6171029/201696779-ebe9bd9a-a3e7-4da0-82eb-927a64ddcc0c.svg)
+
+![fretboard-diagram (62)](https://user-images.githubusercontent.com/6171029/201696911-4eec1aef-b7e5-4ccd-90ca-1e9a2553ee96.svg)
+
+![fretboard-diagram (63)](https://user-images.githubusercontent.com/6171029/201697124-c498faa3-f212-4f23-b2ab-9a8cfe6261ec.svg)
+
+![fretboard-diagram (64)](https://user-images.githubusercontent.com/6171029/201697414-2af94a48-5b6a-46cc-ad7b-8adb1fb428ec.svg)
+
+#### 5th string
+![fretboard-diagram (65)](https://user-images.githubusercontent.com/6171029/201698690-a906e2a4-eb09-4b88-9738-90e16ca2984f.svg)
+
+![fretboard-diagram](https://user-images.githubusercontent.com/6171029/201698903-6a92eb7c-6876-4786-8bc4-6e3e1f9b013e.svg)
+
+![fretboard-diagram (1)](https://user-images.githubusercontent.com/6171029/201699518-ba6ee7e0-9a6a-4295-aefe-a7fb60ded630.svg)
+
+![fretboard-diagram (2)](https://user-images.githubusercontent.com/6171029/201699642-28064677-944f-4cd7-9ac0-cfd77574d31e.svg)
+
+#### 4th string
+
+![fretboard-diagram (4)](https://user-images.githubusercontent.com/6171029/201700776-710b5763-714b-4ed6-a38b-251c6c2e2208.svg)
+
+![fretboard-diagram (5)](https://user-images.githubusercontent.com/6171029/201701312-e2c9317c-8457-490b-92a3-e5037c41a232.svg)
+
+![fretboard-diagram (6)](https://user-images.githubusercontent.com/6171029/201701407-4540978f-f87b-46e8-8bf7-fc2543ecfa52.svg)
 
 
+#### 3rd string
+![fretboard-diagram (7)](https://user-images.githubusercontent.com/6171029/201702384-1912e012-c387-4b20-a1ac-e3a75b3603b5.svg)
 
+### 531
 
-
-
+#### 6th string

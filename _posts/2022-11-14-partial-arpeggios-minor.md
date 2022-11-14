@@ -5,9 +5,9 @@
 ### 135
 #### 6th string
 
-![fretboard-diagram (88)](https://user-images.githubusercontent.com/6171029/201673376-aafef8dc-f030-4984-a99a-303191384954.svg)
-
-![fretboard-diagram (92)](https://user-images.githubusercontent.com/6171029/201674328-96ac0eec-89a5-49c4-8658-0baba96400df.svg)
+<img src="https://user-images.githubusercontent.com/6171029/201673376-aafef8dc-f030-4984-a99a-303191384954.svg" width="300">
+<img src="https://user-images.githubusercontent.com/6171029/201673376-aafef8dc-f030-4984-a99a-303191384954.svg" width="300">
+<img src="https://user-images.githubusercontent.com/6171029/201674328-96ac0eec-89a5-49c4-8658-0baba96400df.svg" width="300">
 
 ![fretboard-diagram (91)](https://user-images.githubusercontent.com/6171029/201674013-c297f9d8-3ac6-415d-9971-75f18a142da9.svg)
 

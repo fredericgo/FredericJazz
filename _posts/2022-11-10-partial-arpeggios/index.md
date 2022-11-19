@@ -23,9 +23,11 @@ categories: Arpeggio
 |---|---|---|
 |<img src="https://user-images.githubusercontent.com/6171029/201118336-a2a8e1d5-536d-43c1-9e84-9074352fa12a.svg" width="350">|<img src="https://user-images.githubusercontent.com/6171029/201118343-59a9db7c-3698-4d67-b120-dd3f7bc0ec40.svg" width="350">|<img src="https://user-images.githubusercontent.com/6171029/201118345-47081291-8833-42ed-b4c8-8f2f18f25c3e.svg" width="350">|
 
+
 |Dominant|||
 |---|---|---|
 |G7 |<img width="115" alt="Screen Shot 2022-11-19 at 4 23 42 PM" src="https://user-images.githubusercontent.com/6171029/202842014-0d0c0883-e50c-433d-9197-73f66095a2d4.png">|.  |
+
 
 ### Starting from 4th string
 
@@ -36,8 +38,8 @@ categories: Arpeggio
 #### Examples
 | Dominant  |    |   |
 |----|----|-----|
-|Bb9 |<img width="130" alt="Screen Shot 2022-11-19 at 3 13 59 PM" src="https://user-images.githubusercontent.com/6171029/202840224-f74c5946-97ec-4d44-96fe-0cdcd785a518.png">|<img width="130" alt="Screen Shot 2022-11-19 at 4 12 52 PM" src="https://user-images.githubusercontent.com/6171029/202841579-44cab977-aa29-458f-81b8-c6c9a419ac4e.png">|<img width="135" alt="Screen Shot 2022-11-19 at 3 39 27 PM" src="https://user-images.githubusercontent.com/6171029/202840418-dbc7b8ad-798a-4713-8d27-16fdc0c19d15.png">|
-|Bb9 |<img width="130" alt="Screen Shot 2022-11-19 at 3 13 59 PM" src="https://user-images.githubusercontent.com/6171029/202840224-f74c5946-97ec-4d44-96fe-0cdcd785a518.png">|||
+|Bb9 |<img width="130" alt="Screen Shot 2022-11-19 at 3 13 59 PM" src="https://user-images.githubusercontent.com/6171029/202840224-f74c5946-97ec-4d44-96fe-0cdcd785a518.png">|<img width="130" alt="Screen Shot 2022-11-19 at 4 12 52 PM" src="https://user-images.githubusercontent.com/6171029/202841579-44cab977-aa29-458f-81b8-c6c9a419ac4e.png">||
+|Bb9 |<img width="130" alt="Screen Shot 2022-11-19 at 3 13 59 PM" src="https://user-images.githubusercontent.com/6171029/202840224-f74c5946-97ec-4d44-96fe-0cdcd785a518.png">||
 
 
 
@@ -50,7 +52,7 @@ categories: Arpeggio
 #### Examples
 | Dominant  |    |      |
 |----|----|-----|
-|Bb9 ||<img width="128" alt="Screen Shot 2022-11-19 at 3 46 12 PM" src="https://user-images.githubusercontent.com/6171029/202840721-b53035f7-9dd6-4928-bbf2-c1db8bdfc137.png">||
+|Bb9 ||<img width="128" alt="Screen Shot 2022-11-19 at 3 46 12 PM" src="https://user-images.githubusercontent.com/6171029/202840721-b53035f7-9dd6-4928-bbf2-c1db8bdfc137.png">|
 
 ### Starting from the 2nd string
 
